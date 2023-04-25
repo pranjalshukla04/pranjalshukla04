@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalshukla04&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalshukla04" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🎯 I am passionate about data analysis and continuously expanding my skills and knowledge. My portfolio reflects my dedication to data-driven decision making and my commitment to providing value to the organizations I work with.
 
 - 📫 How to reach me **pranjalshukla096@gmail.com**
 
 - ⚡ Fun fact **Data will talk to you if you're willing to listen**
 
-- 🎯 I am passionate about data analysis and continuously expanding my skills and knowledge. My portfolio reflects my dedication to data-driven decision making and my commitment to providing value to the organizations I work with.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
