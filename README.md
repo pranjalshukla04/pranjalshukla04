@@ -22,7 +22,21 @@
 
 
 
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pranjalshukla04&theme=radical)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalshukla04&show_icons=true&theme=radical)
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalshukla04&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjalshukla04&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjalshukla04&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalshukla04&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalshukla04=github_dark&utcOffset=8">
+	
+</p>
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,03,23&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
