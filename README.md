@@ -39,7 +39,24 @@
  - :telescope: I’m currently working on <b> Machine Learning skills.</b>.
  
  - :seedling: I’m enthusiatic about finding the intricacies in the data.
+ ## Languages and Tools:
+<div>
  
+* **Data Storage:** MySQL.
+
+* **Data Processing and Analytics:** Excel,Python, Pandas, Numpy, and NLTK.
+  
+* **Data Visualization:** Seaborn, Matplotlib, Power Bi and Excel.
+
+* **Machine Learning Modeling:** Classification, Regression, and Clusterization.
+
+* **Webscraping:** Selenium web-driver, Beautifulsoup, and requests.
+
+* **Automation tool:** Selenium.
+
+* **Python Library** NumPy,Pandas,Pymysql, SqlAlchemy, Scikitlearn, Scipy, NLTK.
+</div>
+
 
  
  - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/pranjalshukla04?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pranjalshukla04" height="30" width="40" style="max-width: 100%;"></a></p>
